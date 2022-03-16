@@ -1,19 +1,19 @@
 /*
-Theme Owned and Made by VaporousCreeper#9514
+Theme Owned and Made by niko_#1257
   
-Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
-Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
+Background Img: https://i.pinimg.com/originals/5b/11/2c/5b112c212dc707a2d46bee6727ab1485.jpg
+Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By niko_#1257
 
 The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('https://images.alphacoders.com/632/632525.png');
+    --background: url('https://i.pinimg.com/originals/5b/11/2c/5b112c212dc707a2d46bee6727ab1485.jpg');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+ 	 --primary1-colour: purple;
+ 	 --primary2-colour: rgba(253, 33, 242, 0.5);
+ 	 --primary3-colour: rgba(155, 0, 245, 0.5);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
